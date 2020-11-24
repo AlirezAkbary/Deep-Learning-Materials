@@ -11,3 +11,15 @@ Covered topics:
 
 ## Quiz 2
 Covered topics:
++ Backward propagation in ResNet. Based on ICML 2016 tutorial **Deep Residual Networks, Deep Learning Gets Way Deeper** by Kaiming He.[link](https://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
++ Optimization in neural networks, especially based on **Adam optimizer.** [arxiv](https://arxiv.org/abs/1412.6980)
+
+## Quiz 3
+Covered topics:
++ Convolutional neural networks important characteristics such as sparse connectivity and parameter sharing. Based on **Deep Learning Book**. [link](https://www.deeplearningbook.org/)
++ Introducing invariances in convolutional neural networks. Based on **Locally Scale-Invariant Convolutional Neural Network** by Kanazawa et al. [arxiv](https://arxiv.org/pdf/1412.5104) and **Deep Learning Book** [link](https://www.deeplearningbook.org/).
+
+## Quiz 4
+Covered topics:
++ Recurrent neural networks advantages to learn sequential data over architectures like MLP.
++ Transformers and attentions mechanisms advantages over RNNs and LSTMs. Based on **Attention is all you need** by Vaswani et al. [arxiv](https://arxiv.org/abs/1706.03762)
