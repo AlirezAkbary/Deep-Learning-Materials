@@ -30,8 +30,3 @@ Covered topics:
 + GloVe: Global Vectors for Word Representation
 + Transformer Masked Attention. Based on **Attention is all you need** by Vaswani et al. [(arxiv)](https://arxiv.org/abs/1706.03762)
 
-## Quiz 6
-Covered topics:
-+ Word2Vec (Skip-Gram) Embeddings and Skip-gram vs. Autoencoder.
-+ GloVe: Global Vectors for Word Representation
-+ Transformer Masked Attention. Based on **Attention is all you need** by Vaswani et al. [(arxiv)](https://arxiv.org/abs/1706.03762)
