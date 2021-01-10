@@ -23,3 +23,15 @@ Covered topics:
 Covered topics:
 + Recurrent neural networks advantages to learn sequential data over architectures like MLP.
 + Transformers and attentions mechanisms advantages over RNNs and LSTMs. Based on **Attention is all you need** by Vaswani et al. [(arxiv)](https://arxiv.org/abs/1706.03762)
+
+## Quiz 5
+Covered topics:
++ Word2Vec (Skip-Gram) Embeddings and Skip-gram vs. Autoencoder.
++ GloVe: Global Vectors for Word Representation
++ Transformer Masked Attention. Based on **Attention is all you need** by Vaswani et al. [(arxiv)](https://arxiv.org/abs/1706.03762)
+
+## Quiz 6
+Covered topics:
++ Word2Vec (Skip-Gram) Embeddings and Skip-gram vs. Autoencoder.
++ GloVe: Global Vectors for Word Representation
++ Transformer Masked Attention. Based on **Attention is all you need** by Vaswani et al. [(arxiv)](https://arxiv.org/abs/1706.03762)
